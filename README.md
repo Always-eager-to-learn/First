@@ -3,4 +3,8 @@ My first github repository with my friend
 
 <br>
 <hr>
-# Hello There
+##  Hello There
+
+Hey There
+
+Welcome to git
